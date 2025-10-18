@@ -52,12 +52,14 @@
   <priority>0.80</priority>
 </url> 
 
-      
 <url>
   <loc>https://page.innovatemarketingm.com/post/new-blog-post-6721</loc>
+<xhtml:link 
+        rel="amphtml" 
+        href="https://murtadaazhari1987-pixel.github.io/innovatemarketing-amp/taskhob" />
   <lastmod>2025-10-17T06:24:48+00:00</lastmod>
   <priority>0.80</priority>
-</url>
+</url> 
 
 <url>
   <loc>https://page.innovatemarketingm.com/post/new-blog-post-2008</loc>
@@ -128,6 +130,7 @@
 <!-- يمكنك إضافة أي صفحات جديدة هنا بنفس النمط -->
 
 </urlset>
+
 
 
 
