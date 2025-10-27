@@ -83,11 +83,16 @@
   <priority>0.80</priority>
 </url>
 
+
 <url>
-  <loc>https://page.innovatemarketingm.com/post/new-blog-post-4667</loc>
+  <loc>https://page.innovatemarketingm.com/post/new-blog-post-4166</loc>
+<xhtml:link 
+        rel="amphtml" 
+        href="https://murtadaazhari1987-pixel.github.io/innovatemarketing-amp/dawradakhl" />
   <lastmod>2025-10-17T06:24:48+00:00</lastmod>
   <priority>0.80</priority>
-</url>
+</url> 
+
 
 <url>
   <loc>https://page.innovatemarketingm.com/blog/category/BLOGS</loc>
@@ -204,6 +209,7 @@
 <!-- يمكنك إضافة أي صفحات جديدة هنا بنفس النمط -->
 
 </urlset>
+
 
 
 
