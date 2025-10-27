@@ -87,15 +87,6 @@
   <priority>0.80</priority>
 </url> 
 
-<url>
-  <loc>https://page.innovatemarketingm.com/post/new-blog-post-4166</loc>
-<xhtml:link 
-        rel="amphtml" 
-        href="https://murtadaazhari1987-pixel.github.io/innovatemarketing-amp/dawradakhl" />
-  <lastmod>2025-10-17T06:24:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url> 
-
 
 <url>
   <loc>https://page.innovatemarketingm.com/blog/category/BLOGS</loc>
@@ -207,11 +198,21 @@
         href="https://murtadaazhari1987-pixel.github.io/innovatemarketing-amp/strategicmarketing" />
   <lastmod>2025-10-17T06:24:48+00:00</lastmod>
   <priority>0.80</priority>
+</url>   
+
+<url>
+  <loc>https://page.innovatemarketingm.com/post/new-blog-post-4667</loc>
+<xhtml:link 
+        rel="amphtml" 
+        href="https://murtadaazhari1987-pixel.github.io/innovatemarketing-amp/afdalqanawat" />
+  <lastmod>2025-10-17T06:24:48+00:00</lastmod>
+  <priority>0.80</priority>
 </url> 
-    
+  
 <!-- يمكنك إضافة أي صفحات جديدة هنا بنفس النمط -->
 
 </urlset>
+
 
 
 
